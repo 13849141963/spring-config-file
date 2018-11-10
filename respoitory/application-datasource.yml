@@ -1,7 +1,7 @@
 server:
-  port: 8080
+  port: 7001
   servlet:
-    context-path: /springcloud-provider
+    context-path: /springcloud-provider-config-client
   tomcat:
     uri-encoding: UTF-8
 
